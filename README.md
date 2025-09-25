@@ -9,6 +9,8 @@ This repository cpresents Pose-Robust 3D Virtual Try-On Network (PR-VTON), a nov
 
 ---
 ## Pipeline
+Proposed 3D Virtual Try-On Framework. The pipeline consists of five stages: (1) the Monocular Prediction Module (MPM) performs garment alignment, segmen-tation, and double-depth estimation; (2) the Depth Refinement Module (DRM) recovers fine-grained geometry; (3) reference-driven image editing enforces cross-view consistency; (4) a personalized diffusion model with LoRA fine-tuning synthesizes garment textures under occlusions; and (5) persona-aware 3D Gaussian Splatting (3DGS) editing and rendering integrate geometry, texture, and identity features into high-fidelity multi-view try-on results.
+
 <img width="588" height="584" alt="image" src="https://github.com/user-attachments/assets/5e3cecd0-7308-4a7f-b5fc-f5bbb58022d4" />
 
 ---
