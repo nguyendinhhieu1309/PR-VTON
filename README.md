@@ -36,7 +36,7 @@ This project utilizes the following core frameworks and libraries:
 
 ```bash
 # Clone repo
-git clone https://github.com/your-repo/pr-vton.git
+git clone https://github.com/nguyendinhhieu1309/PR-VTON.git
 cd pr-vton
 
 # Create environment
