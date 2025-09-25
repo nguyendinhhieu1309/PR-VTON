@@ -4,7 +4,12 @@
 FPT University, Hanoi, Vietnam  
 [hieundhe180318@fpt.edu.vn](mailto:hieundhe180318@fpt.edu.vn), [vanhphamjuly@gmail.com](mailto:vanhphamjuly@gmail.com), [tinhthanh719@gmail.com](mailto:tinhthanh719@gmail.com), [longtthe176743@fpt.edu.vn](mailto:longtthe176743@fpt.edu.vn), [phongphhe176151@fpt.edu.vn](mailto:phongphhe176151@fpt.edu.vn)
 
+---
 This repository cpresents Pose-Robust 3D Virtual Try-On Network (PR-VTON), a novel framework addressing the persistent challenges of achieving realistic 3D virtual try-on under complex human poses. In contrast to prior works that primarily handle frontal or simplified postures, PR-VTON is designed to accommodate extreme variations such as side-facing stances, crossed arms, and severe self-occlusions, conditions that often lead to geometric distortions and inconsistent garment rendering. The proposed approach integrates a personalized diffusion model with a pose-aware 3D Gaussian Splatting editing pipeline, enabling fine-grained garment transfer while preserving high-fidelity geometry and texture across multiple viewpoints. To support training and evaluation, a curated and pre-processed dataset named PR-VTON3D is introduced, containing diverse clothing types and challenging poses that offer realistic scenarios for robust model development. Through a reference-driven multi-view editing strategy and a multi-level attention fusion mechanism, PR-VTON achieves superior cross-view consistency, garment similarity, and visual realism compared to state-of-the-art baselines. Experimental results and user studies demonstrate that the proposed framework significantly enhances the reliability of 3D virtual try-on systems in real-world conditions, establishing a new benchmark for pose-invariant garment transfer.
+
+---
+## Pipeline
+<img width="588" height="584" alt="image" src="https://github.com/user-attachments/assets/5e3cecd0-7308-4a7f-b5fc-f5bbb58022d4" />
 
 ---
 
