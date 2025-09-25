@@ -1,6 +1,6 @@
 # PR-VTON: Robust 3D Virtual Try-On under Complex Poses
 
-**Nguyen Dinh Hieu,Pham Thi Van Anh, Do Ngoc Bich, Tran Tien Long, Pham Hong Phong**  
+**Nguyen Dinh Hieu, Pham Thi Van Anh, Do Ngoc Bich, Tran Tien Long, Pham Hong Phong**  
 FPT University, Hanoi, Vietnam  
 [hieundhe180318@fpt.edu.vn](mailto:hieundhe180318@fpt.edu.vn), [vanhphamjuly@gmail.com](mailto:vanhphamjuly@gmail.com), [tinhthanh719@gmail.com](mailto:tinhthanh719@gmail.com), [longtthe176743@fpt.edu.vn](mailto:longtthe176743@fpt.edu.vn), [phongphhe176151@fpt.edu.vn](mailto:phongphhe176151@fpt.edu.vn)
 
